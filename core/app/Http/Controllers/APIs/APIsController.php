@@ -81,7 +81,7 @@ Restful Web Services: <br>
 { POST }   /api/v1/order <br>
 { POST }   /api/v1/contact <br>
 ---------------------------------------- <br>
-For more details check <a href='http://smartfordesign.net/Sidepe/documentation/api.html' target='_blank'><strong>API documentation</strong></a>
+For more details check <a href='http://smartfordesign.net/smartend/documentation/api.html' target='_blank'><strong>API documentation</strong></a>
 </div>
 </body>
 </html>
