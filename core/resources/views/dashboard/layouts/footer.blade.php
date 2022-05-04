@@ -2,7 +2,7 @@
     <div class="p-a text-xs">
         <div class="pull-right text-muted">
             &copy;<?php echo date("Y") ?> Copyright
-            <strong>Sidepe 8.6.1</strong>
+            <strong>Pandu Talenta Digital 8.6.1</strong>
             <a ui-scroll-to="content"><i class="fa fa-long-arrow-up p-x-sm"></i></a>
         </div>
         <div class="nav">
