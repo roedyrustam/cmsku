@@ -1,8 +1,8 @@
 <script type="text/javascript">
     var public_lang = "{{ @Helper::currentLanguage()->code }}";
     var public_folder_path = "{{ asset('') }}";
-    var first_day_of_week = "{{ env("FIRST_DAY_OF_WEEK",0) }}";
-
+    var first_day_of_week = "{{ env("
+    FIRST_DAY_OF_WEEK ",0) }}";
 </script>
 @stack('before-scripts')
 <!-- jQuery -->
